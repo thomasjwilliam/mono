@@ -15,3 +15,7 @@
 # Dependencies
 node_modules/
 npm-debug.log*
+
+# Nx Monorepo
+.nx/cache
+.nx/workspace-data
